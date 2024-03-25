@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  CH6-Alert
-//
-//  Created by Michele Fadda on 16/02/2023.
-//
-
 import SwiftUI
 
 struct ContentView: View {

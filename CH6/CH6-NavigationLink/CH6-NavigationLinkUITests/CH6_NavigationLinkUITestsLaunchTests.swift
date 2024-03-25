@@ -2,8 +2,7 @@
 //  CH6_NavigationLinkUITestsLaunchTests.swift
 //  CH6-NavigationLinkUITests
 //
-//  Created by Michele Fadda on 16/02/2023.
-//
+
 
 import XCTest
 

@@ -2,8 +2,7 @@
 //  CH6_NavigationLinkApp.swift
 //  CH6-NavigationLink
 //
-//  Created by Michele Fadda on 16/02/2023.
-//
+
 
 import SwiftUI
 

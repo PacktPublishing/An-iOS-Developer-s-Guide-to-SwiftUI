@@ -2,8 +2,7 @@
 //  CH6_ModalViewUITestsLaunchTests.swift
 //  CH6-ModalViewUITests
 //
-//  Created by Michele Fadda on 16/02/2023.
-//
+
 
 import XCTest
 
