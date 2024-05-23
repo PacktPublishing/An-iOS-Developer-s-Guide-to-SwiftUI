@@ -1,4 +1,4 @@
-# An-iOS-Developer-s-Guide-to-SwiftUI
+# An iOS Developer's Guide to SwiftUI
 An iOS Developer's Guide to SwiftUI, published by Packt
 <a href="https://www.packtpub.com/product/An-iOS-Developer-s-Guide-to-SwiftUI/9781801813624"><img src="https://static.packt-cdn.com/products/9781801813624/cover/smaller" alt="" height="256px" align="right"></a>
 This is the code repository for [An iOS Developer's Guide to SwiftUI](https://www.packtpub.com/product/An-iOS-Developer-s-Guide-to-SwiftUI/9781801813624), published by Packt.
@@ -38,8 +38,8 @@ Intel’s OpenVINO NVIDIA’s NeMo Microphone and speakers
 Foundational models: Google’s gTTS, StableLM Zephyr 3B – GGUF, LlaVA
 
 ### Related products <Other books you may enjoy>
-* OpenAI API Cookbook  [[Packt]](https://www.packtpub.com/product/OpenAI-API-Cookbook/9781805121350) [Amazon](https://packt.link/1805121359)
-* Modern Data Architecture on AWS [[Packt]](https://www.packtpub.com/product/Modern-Data-Architecture-on-AWS/9781801813396) [Amazon](https://packt.link/1801813396)
+* OpenAI API Cookbook  [[Packt]](https://www.packtpub.com/product/OpenAI-API-Cookbook/9781805121350) [Amazon](https://www.amazon.com/dp/1805121359)
+* Modern Data Architecture on AWS [[Packt]](https://www.packtpub.com/product/Modern-Data-Architecture-on-AWS/9781801813396) [Amazon](https://www.amazon.com/dp/1801813396)
 
 ## Get to Know the Author
 **Michele Fadda** is currently working as a technical project and program manager at Eggon, an innovative startup in Padua, Italy, and as the director of FWLAB Limited, a UK App development studio. He specializes in skills such as Imperative Programming, Functional programming, Swift, Mobile Application Development. He started programming as a child with Assembly language and has worked for 20 years as a consultant using a variety of languages and technologies. He started developing for iOS with iOS on iOS v.3.0 in 2009. He has also developed many apps as a solo developer and has also participated in numerous projects.	
